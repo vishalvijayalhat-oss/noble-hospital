@@ -1,0 +1,6 @@
+{
+  "name": "Noble Dental Hospital & Research Centre",
+  "description": "Comprehensive, patient-focused dental care in Malwadi, Hadapsar, Pune. Book dental appointments online or connect via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
